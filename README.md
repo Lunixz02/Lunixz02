@@ -1,2 +1,2 @@
-## hi there, you like sing my petition 👋
+## hi there, you like sing my petition 
 
