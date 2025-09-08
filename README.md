@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Desenvolvedor de Software
+## 🚀 Automação Industrial
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/5421823/62779159-4cf76880-baaa-11e9-8318-e20a1aaa913a.png" alt="Descrição da imagem" width="34"/>  
