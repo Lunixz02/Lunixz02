@@ -7,8 +7,11 @@
 
 ## 🚀 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 
 ---
@@ -18,8 +21,7 @@
   Arduino,ESP32 entre outros microntroladores. 
 - [📊 Dashboard Financeiro](https://github.com/seunome/dashboard-financeiro)  
   Visualização de dados com React + Chart.js.  
-- [🤖 Bot de Telegram](https://github.com/seunome/telegram-bot)  
-  Automação de tarefas com Python e APIs externas.  
+
 
 ---
 
