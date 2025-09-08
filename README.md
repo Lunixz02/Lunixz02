@@ -1,5 +1,4 @@
-## Hi there, would you like sing my petition     <img src="https://raw.githubusercontent.com/seu-usuario/seu-repo/main/postal2.png" alt="Postal 2 Meme" width="24" height="24"/>
-
+## Hi there, would you like sing my petition  
 
 
 💻 Low-Level & High-Level Developer| 🚀 Apaixonado por Open Source | 
@@ -21,6 +20,8 @@ Future:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fortran/fortran-original.svg" alt="Fortran" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Terminal" width="24" height="24"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="24" height="24"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="24" height="24"/>
 </p>
 
 
