@@ -32,6 +32,3 @@
 
 ---
 
-## 🌐 Vamos nos conectar?
-[![Linkedin Badge](https://img.shields.io/badge/-SeuNome-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/seunome)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:seuemail@gmail.com)
