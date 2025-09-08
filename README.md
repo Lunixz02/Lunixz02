@@ -30,9 +30,6 @@
 ## 📈 Estatísticas
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&theme=radical)
 
-
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUNOME&layout=compact&theme=radical)
 ---
 
