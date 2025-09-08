@@ -14,8 +14,8 @@
 ---
 
 ## 📌 Projetos em destaque
-- [🔥 API de autenticação JWT](https://github.com/seunome/api-auth-jwt)  
-  Autenticação segura com Express + JWT + MongoDB.  
+- [🖥️Microcontroladores🤖](https://github.com/Lunixz02/-Automacao--01-Arduino)  
+  Arduino,ESP32 entre outros microntroladores. 
 - [📊 Dashboard Financeiro](https://github.com/seunome/dashboard-financeiro)  
   Visualização de dados com React + Chart.js.  
 - [🤖 Bot de Telegram](https://github.com/seunome/telegram-bot)  
