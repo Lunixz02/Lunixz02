@@ -16,10 +16,17 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="26" height="30"/>
 </p>
 
-https://raw.githubusercontent.com/devicons/devicon/master/icons/fortran/fortran-original.svg
-https://raw.githubusercontent.com/valohai/ml-logos/master/matlab.svg
-https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg
-
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/5421823/62779159-4cf76880-baaa-11e9-8318-e20a1aaa913a.png" alt="Descrição da imagem" width="34"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="24" height="24"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="24" height="24"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="24" height="24"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="Elixir" width="24" height="24"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="24" height="24"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fortran/fortran-original.svg" alt="Fortran" width="24" height="24"/>
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/matlab.svg" alt="Matlab" width="24" height="24"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Terminal" width="24" height="24"/>
+</p>
 
 
 ---
