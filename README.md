@@ -21,8 +21,8 @@
 ## 📌 Projetos em destaque
 - [🖥️Microcontroladores🤖](https://github.com/Lunixz02/-Automacao--01-Arduino)  
   Arduino,ESP32 entre outros microntroladores. 
-- [📊 Dashboard Financeiro](https://github.com/seunome/dashboard-financeiro)  
-  Visualização de dados com React + Chart.js.  
+- [(Programação)-Python](https://github.com/Lunixz02/Programacao-Pyhton/tree/main)  
+  
 
 
 ---
