@@ -6,11 +6,10 @@
 ---
 
 ## 🚀 Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 
