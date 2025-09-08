@@ -16,6 +16,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="26" height="30"/>
 </p>
 
+https://raw.githubusercontent.com/devicons/devicon/master/icons/fortran/fortran-original.svg
+https://raw.githubusercontent.com/valohai/ml-logos/master/matlab.svg
+https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg
+
+
+
 ---
 
 ## 📌 Projetos em destaque
