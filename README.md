@@ -15,6 +15,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="Elixir" width="26" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="26" height="30"/>   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="24" height="30"/>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/automation.png" width="28"/>
+<img src="https://img.icons8.com/ios-filled/50/ffffff/processor.png" width="28"/>
+<img src="https://img.icons8.com/ios-filled/50/ffffff/electronics.png" width="28"/>
+
 </p>
 
 Future:
