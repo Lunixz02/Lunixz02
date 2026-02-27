@@ -23,6 +23,7 @@ Future:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Terminal" width="24" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="24" height="30"/>
 <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/robot.svg" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/robot.svg" width="30" height="30"/>
 </p>
 
 
