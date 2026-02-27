@@ -22,6 +22,8 @@ Future:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fortran/fortran-original.svg" alt="Fortran" width="24" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Terminal" width="24" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="24" height="30"/>
+  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/code.svg" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/code.svg" width="30" height="30"/>
 </p>
 
 
